@@ -1,2 +1,3 @@
 # Injection-Vision
-Application of Image Processing Techniques and AI for Ultra-High-Speed Imaging of Fuel Injection
+
+This repository contains a project aimed at developing tools to simplify the analysis of nozzle injection sprays in diesel engine videos. It is divided into four main components: cavitation dynamics analysis, spray angle detection, velocity field calculation, and wavelength analysis. In addition, there are several supplementary scripts used for analysis purposes. Most of them are either well-commented or self-contained. A GUI is planned and will be added soon.
